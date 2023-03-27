@@ -1,0 +1,13 @@
+node_modules/
+cache/
+build/
+typechain/
+artifacts/
+coverage*
+.env
+docs/
+
+bnbcamp0322/node_modules/
+bnbcamp0322/artifacts/
+bnbcamp0322/cache/
+bnbcamp0322/.env
